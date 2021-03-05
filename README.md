@@ -1,4 +1,4 @@
-![](https://github.com/hamidfathi1998/Bimen/blob/main/menuicon.png)# Bimen
+# Bimen
 
 Insurance application for MPM challenge in sharif university (new idea)
 ====================================================================
@@ -7,6 +7,8 @@ Insurance application for MPM challenge in sharif university (new idea)
 Note
 ----
 This application is not ready(Demo) because we wrote in 48 hours.
+
+![](https://github.com/hamidfathi1998/Bimen/blob/main/Intro%20Pages.jpg)
 
 
 Possibilities
